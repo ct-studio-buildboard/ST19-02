@@ -1,0 +1,27 @@
+company:
+  name: Gathr
+  logo: gathr_logo.png
+product_narrative: |
+  Gathr makes hosting simple and enjoyable by curating and delivering all your party needs. We make it easy to bring people together.
+team:
+  picture: team.JPG
+  roster:
+    - name: Rebecca Rubin
+      email: nba28@cornell.edu
+      picture: rebecca.png
+      program: MBA
+    - name: Adi Gutner
+      email: ag2455@cornell.edu
+      picture: adi.png
+      program: CS
+    - name: Romane d'Oncieu
+      email: rsd229@cornell.edu
+      picture: romane.png
+      program: ORIE
+    - name: Munazza Khan
+      email: mfk55@cornell.edu
+      picture: munazza.png
+      program: MBA
+assets:
+  - title: Sprint 1
+    url: https://docs.google.com/presentation/d/10_Kp0pJnLbn2uZjzDdxLSp-gekTMVqwmAmumkUa2lVo/edit?usp=sharing
