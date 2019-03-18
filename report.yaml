@@ -1,10 +1,10 @@
 company:
   name: Gathr
-  logo: Gathr_logo@4x-8.png
+  logo: logo.png
 product_narrative: |
   Gathr makes hosting simple and enjoyable by curating and delivering all your party needs. We make it easy to bring people together.
 team:
-  picture: team.JPG
+  picture: logo.png
   roster:
     - name: Rebecca Rubin
       email: nba28@cornell.edu
