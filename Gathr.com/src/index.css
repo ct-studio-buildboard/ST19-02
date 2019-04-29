@@ -1,0 +1,308 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.panel {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #f8f9fa;
+  padding: 30px;
+  opacity: 0.9;
+  border-radius: 10px;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.panel-left {
+  position: absolute;
+  top: 44%;
+  left: 40%;
+  background-color: #f8f9fa;
+  padding: 30px;
+  opacity: 0.9;
+  border-radius: 10px;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.panel-right {
+  position: absolute;
+  top: 35%;
+  left: 70%;
+  background-color: #f8f9fa;
+  padding: 30px;
+  opacity: 0.9;
+  border-radius: 10px;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.panel-left-even {
+  position: absolute;
+  top: 40%;
+  left: 30%;
+  background-color: #f8f9fa;
+  padding: 30px;
+  opacity: 0.9;
+  border-radius: 10px;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  width: 500px;
+}
+
+.panel-right-even {
+  position: absolute;
+  top: 40%;
+  left: 70%;
+  background-color: #f8f9fa;
+  padding: 30px;
+  opacity: 0.9;
+  border-radius: 10px;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  width: 500px;
+}
+
+h2 {
+  width: 450px;
+  align-content: center;
+  text-align: center;
+}
+
+.h2b {
+  width: 560px;
+}
+
+.h2c {
+  width: 250px;
+  position: relative;
+  float: left;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h5 {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.h5b {
+  width: 150px;
+}
+
+h6 {
+  padding-top: 30px;
+  width: 150px;
+  text-align: center;
+}
+
+.buttons {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.buttonss {
+  position: absolute;
+  top: 150%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#background-container {
+  background: url(./images/party.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 100%;
+  height: 92%;
+}
+
+#bg-food {
+  background: url(./images/food.jpg);
+  object-fit: fill;
+  opacity: 0.5;
+}
+
+div {
+  color: #316b5e;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-size: 100%;
+  text-align: center;
+}
+
+.content {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h1 {
+  width: 770px;
+}
+
+nav {
+  width: 100%;
+  background: #bbbbbb;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.button {
+  background-color: #316b5e;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+  cursor: pointer;
+  margin: 100px;
+  border-radius: 5px;
+}
+
+.image {
+  width: 100px;
+  margin-top: 5px;
+}
+
+.column {
+  flex-direction: column;
+  width: 200px;
+}
+
+.columnn {
+  display: table-cell;
+  flex-direction: column;
+  width: 300px;
+  height: 300px;
+  padding-right: 10px;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.columnnn {
+  display: table-cell;
+  flex-direction: column;
+  vertical-align: middle;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.row {
+  flex-direction: row;
+  vertical-align: middle;
+}
+
+.roww {
+  flex-direction: row;
+  vertical-align: middle;
+  text-align: left;
+}
+
+.rowww {
+  flex-direction: row;
+  vertical-align: middle;
+  width: 1000px;
+}
+
+.style1 {
+  border: 5px solid #316b5e;
+  width: 110px;
+}
+
+.h6b {
+  padding-top: 25px;
+  width: 150px;
+  text-align: center;
+}
+
+label {
+  padding-left: 10px;
+  font-size: 25px;
+}
+
+.checkbox {
+  size: 25px;
+}
+
+.imagewithtext {
+  position: relative;
+  text-align: center;
+}
+
+.centered {
+  font-size: 30px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 250px;
+  font-weight: bold;
+  color: #1d4c40;
+}
+
+.Collapsible {
+  text-align: left;
+  width: 550px;
+}
+
+.itemname {
+  width: 400px;
+}
+
+.itemprice {
+  margin-left: 20px;
+  width: 10px;
+}
+
+.title {
+  display: flex;
+  line-height: 25px;
+  flex-direction: row;
+  vertical-align: middle;
+}
+
+.icon {
+  width: 35px;
+  height: 25px;
+  padding-right: 10px;
+  vertical-align: baseline;
+}
+
+.name {
+  font-size: 15px;
+  width: 455px;
+}
+
+.counter {
+  display: flex;
+  flex-direction: row;
+  width: 500px;
+}
