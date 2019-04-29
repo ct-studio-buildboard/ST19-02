@@ -1,0 +1,31 @@
+{
+  "name": "gathr",
+  "version": "1.0.0",
+  "description": "gathr",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adigutner/gathr.git"
+  },
+  "keywords": [
+    "gathr"
+  ],
+  "author": "Adi Gutner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adigutner/gathr/issues"
+  },
+  "homepage": "https://github.com/adigutner/gathr#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.4.3",
+    "@babel/preset-react": "^7.0.0",
+    "webpack": "^4.30.0"
+  },
+  "presets": [
+    "@babel/preset-env",
+    "@babel/preset-react"
+  ]
+}
