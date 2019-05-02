@@ -1,3 +1,12 @@
+# How to view our product:
+
+You can view our product by downloading the Curation.ipynb in the Curation folder and running it in your iPython Notebook. 
+The front end of our product is visible in the video of our final deck. 
+
+
+
+
+
 # What you need to do?
 * [ ] add correct information and assets about your startup/bigco project and your team (see instructions below)
 
