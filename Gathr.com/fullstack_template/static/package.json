@@ -22,7 +22,7 @@
   "devDependencies": {
     "@babel/preset-env": "^7.4.3",
     "@babel/preset-react": "^7.0.0",
-    "webpack": "^4.30.0"
+    "webpack": "^5.75.0"
   },
   "presets": [
     "@babel/preset-env",
